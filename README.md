@@ -1,4 +1,4 @@
-# price-converter [<img src="https://img.shields.io/gitlab/pipeline/alen/price-converter]/main?gitlab_url=https%3A%2F%2Fgitlab.home.alen.sh%2F&label=Gitlab%20CI&style=flat-square" align="right">](https://gitlab.home.alen.sh/alen/price-converter)
+# price-converter [<img src="https://img.shields.io/gitlab/pipeline/alen/price-converter/main?gitlab_url=https%3A%2F%2Fgitlab.home.alen.sh%2F&label=Gitlab%20CI&style=flat-square" align="right">](https://gitlab.home.alen.sh/alen/price-converter)
 
 A simple price conversion tool.
 
