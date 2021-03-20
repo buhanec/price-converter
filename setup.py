@@ -16,6 +16,7 @@ setup(
     entry_points={
         'console_scripts': ['priceconverter=priceconverter.tool:main'],
     },
+    install_requires=['requests'],
     classifiers=[
         'Topic :: Utilities',
         'Development Status :: 3 - Alpha',
