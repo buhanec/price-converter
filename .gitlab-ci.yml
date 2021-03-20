@@ -19,3 +19,12 @@ run_lint:
   script:
     - pylint priceconverter
   stage: test
+
+
+run_console_test:
+  script:
+    - pip install .
+    - priceconverter '$1000' EUR
+    - priceconverter '.5 USD' EUR
+    - priceconverter GBP USD
+  stage: test
